@@ -1,0 +1,14 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "Tribute Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
